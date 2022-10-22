@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+
+.errors {
+  color: red;
+  font-size: 16;
+  font-family: "Roboto";
+}
